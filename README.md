@@ -1,6 +1,10 @@
 
 # Deploying a Docker Container with React.js Web Application on Amazon EC2
 
+
+![Diagram](src/Diagram.jpeg)
+
+
  This guide outlines the steps to deploy a React.js web application inside a Docker container on an Amazon EC2 instance. By following these steps, you'll be able to host your web application and access it via a web browser.
 
 AWS EC2 is a service that allows you to spin up and manage your own remote machines.
