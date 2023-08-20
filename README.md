@@ -121,6 +121,4 @@ sudo docker run -d --rm -p 3000:3000 affan03/example-2
 1. Obtain your EC2 instance's public IP address.
 2. Open a web browser and enter the following URL:
 
-```
-http://<EC2-INSTANCE-PUBLIC-IP-ADDRESS>:3000
-```
+```http://<EC2-INSTANCE-PUBLIC-IP-ADDRESS>:3000```
